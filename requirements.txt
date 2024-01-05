@@ -1,0 +1,7 @@
+pygame
+SpeechRecognition
+pyaudio
+vosk
+selenium
+pyautogui
+pywhatkit
