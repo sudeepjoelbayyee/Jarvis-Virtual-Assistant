@@ -5,3 +5,6 @@ vosk
 selenium
 pyautogui
 pywhatkit
+flask
+BingImageCreator
+g4f
